@@ -1,9 +1,9 @@
 <apps version="2.0">
   <app keywords="ece353" req_capabilities_v2="[cy8cproto_063_ble]">
     <name>ECE 353 - Getting Started</name>
-    <id>exe353-mtb-psoc6-getting-started</id>
+    <id>ece353-mtb-init-app</id>
     <category>ECE 353</category>
-    <uri>https://git.doit.wisc.edu/MACHABILLAVA/ece353-test-project</uri>
+    <uri>https://git.doit.wisc.edu/engr/ece/cmpe_courses/ece-353-staff/ece353-mtb-init-app</uri>
     <description><![CDATA[This is the starter project for the ECE 353 - Introduction to Microprocessor Systems]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>

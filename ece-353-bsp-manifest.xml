@@ -1,0 +1,20 @@
+<boards>
+  <board default_location="local">
+    <id>ECE353-BSP</id>
+    <category>PSoC&#8482; 6 BSPs</category>
+    <board_uri>https://git.doit.wisc.edu/engr/ece/cmpe_courses/ece-353-staff/TARGET_ECE353-BSP</board_uri>
+    <chips>
+      <mcu>CY8C6244LQI-S4D92</mcu>
+    </chips>
+    <name>ECE353-BSP</name>
+    <summary>This BSP is derived from the base BSP - CY8CKIT-062S4 modified for the purpose of ECE 353 course.</summary>
+    <prov_capabilities>adc arduino can capsense capsense_button capsense_linear_slider cat1 cat1a comp csd cy8ckit_062s4 dac dma flash_256k hal i2c j2 led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash opamp psoc6 qspi rgb_led rtc smart_io spi sram_128k std_crypto switch uart usb_device</prov_capabilities>
+    <description>TBD</description>
+    <documentation_url>http://www.cypress.com/CY8CKIT-062S4</documentation_url>
+    <versions>
+      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
+        <num>Latest release</num>
+        <commit>main</commit>
+      </version>
+    </versions>
+  </board>
