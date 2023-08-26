@@ -1,7 +1,7 @@
 <boards>
   <board default_location="local">
     <id>ECE353-BSP</id>
-    <category>PSoC&#8482; 6 BSPs</category>
+    <category>ECE 353</category>
     <board_uri>https://git.doit.wisc.edu/engr/ece/cmpe_courses/ece-353-staff/TARGET_ECE353-BSP</board_uri>
     <chips>
       <mcu>CY8C6244LQI-S4D92</mcu>
