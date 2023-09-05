@@ -1,5 +1,5 @@
 <apps version="2.0">
-  <app keywords="ece353" req_capabilities_v2="[cy8ckit_062s4]">
+  <app keywords="ece353" req_capabilities_v2="[cy8cproto_063_ble]">
     <name>ECE 353 - Getting Started</name>
     <id>ece353-mtb-init-app</id>
     <category>ECE 353</category>
