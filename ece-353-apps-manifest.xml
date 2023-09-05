@@ -3,7 +3,7 @@
     <name>ECE 353 - Getting Started</name>
     <id>ece353-mtb-init-app</id>
     <category>ECE 353</category>
-    <uri>https://git.doit.wisc.edu/engr/ece/cmpe_courses/ece-353-staff/ece353-mtb-init-app</uri>
+    <uri>https://git.doit.wisc.edu/engr/ece/cmpe_courses/ece-353-public-share/ece353-mtb-init-app</uri>
     <description><![CDATA[This is the starter project for the ECE 353 - Introduction to Microprocessor Systems]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
