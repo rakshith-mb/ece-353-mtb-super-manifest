@@ -3,6 +3,7 @@
     <board-manifest dependency-url="https://raw.githubusercontent.com/rakshith-mb/ece-353-mtb-super-manifest/main/ece-353-bsp-dependencies-manifest.xml" capability-url="https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json">
       <uri>https://raw.githubusercontent.com/rakshith-mb/ece-353-mtb-super-manifest/main/ece-353-bsp-manifest.xml</uri>
     </board-manifest>
+  </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
       <uri>https://raw.githubusercontent.com/rakshith-mb/ece-353-mtb-super-manifest/main/ece-353-apps-manifest.xml</uri>
